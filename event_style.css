@@ -71,7 +71,7 @@ body {
 
 /* Left Side */
 #timeline ul li:nth-child(even) div {
-  left: -285px;
+  left: -265px;
   transform: translate(-200px, 0);
 }
 
@@ -161,7 +161,6 @@ footer{
   margin-bottom: 0px;
   padding-top:7vh;
   margin-top: 50px;
-  margin-bottom: 0px;
   background-color: #1F1F1F;
 
 }
